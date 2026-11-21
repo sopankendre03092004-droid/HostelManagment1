@@ -7,7 +7,7 @@
     <groupId>com.hostel</groupId>
     <artifactId>HostelManagementSystem</artifactId>
     <packaging>war</packaging>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>HostelManagementSystem Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
